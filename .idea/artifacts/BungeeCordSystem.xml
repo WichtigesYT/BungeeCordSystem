@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BungeeCordSystem">
+    <output-path>Z:/Datein/Plugins/BungeeCord/plugins</output-path>
+    <root id="archive" name="BungeeCordSystem.jar">
+      <element id="module-output" name="BungeeCordSystemÖfentlich" />
+    </root>
+  </artifact>
+</component>
